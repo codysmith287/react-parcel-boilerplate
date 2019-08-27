@@ -1,0 +1,25 @@
+{
+  "name": "codymsmith.github.io",
+  "version": "1.0.0",
+  "description": "single page portfolio page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codysmith287/codymsmith.github.io.git"
+  },
+  "keywords": [],
+  "author": "Cody Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codysmith287/codymsmith.github.io/issues"
+  },
+  "homepage": "https://github.com/codysmith287/codymsmith.github.io#readme",
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.1.0",
+    "prettier": "^1.18.2"
+  }
+}
